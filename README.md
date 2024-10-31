@@ -5,3 +5,4 @@
 
 # Seattle GitHub User and Repository Analysis
 This program retrieves data about Seattle Github users (with more than 200 followers) using Github API and makes csv files of their repo details, making it easier to analyse trends in the data.
+Note: Github API token has been replaced with "<inserted github token here>" due to security concerns.
