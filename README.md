@@ -10,13 +10,16 @@ This program retrieves data about Seattle Github users (with more than 200 follo
 
 # Findings:
 1. Top 5 Languages:
-- JavaScript (7723 users)
-- Python (5475 users)
-- Ruby (2397 users)
-- HTML (2109 users)
-- TypeScript (1924 users)
+  - JavaScript (7723 users)
+  - Python (5475 users)
+  - Ruby (2397 users)
+  - HTML (2109 users)
+  - TypeScript (1924 users)
 2. Account creation dates:
-- The majority of users registered their accounts in 2012, followed by 2011, 2010, 2013, and 2014.
+  - The majority of users created their accounts in 2012, followed by 2011, 2010, 2013, and 2014.
+3. Projects and Wiki relation
+  - Majority of users (42598 users) have both projects and wiki in their github page.
+  - Correlation between projects and wikis: 0.3109
   
 # Note: 
 Github API token has been replaced with \<inserted github token here> due to security concerns.
