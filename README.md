@@ -9,13 +9,13 @@
 This program retrieves data about Seattle Github users (with more than 200 followers) using Github API and makes csv files of their repo details, making it easier to analyse trends in the data.
 
 # Findings:
-* Top 5 Languages:
+1. Top 5 Languages:
 - JavaScript (7723 users)
 - Python (5475 users)
 - Ruby (2397 users)
 - HTML (2109 users)
 - TypeScript (1924 users)
-* Account creation dates:
+2. Account creation dates:
 - The majority of users registered their accounts in 2012, followed by 2011, 2010, 2013, and 2014.
   
 # Note: 
