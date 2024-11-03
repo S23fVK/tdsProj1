@@ -1,6 +1,6 @@
 # tdsProj1
 - Github API was used to gather data data and analyze popular github users in Seattle and their respective repositories.
-- From the data obtained, it was found that
+## Findings:
 1. Top 5 Languages:
   - JavaScript (7723 users)
   - Python (5475 users)
