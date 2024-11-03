@@ -12,6 +12,7 @@
 3. Projects and Wiki relation
   - Majority of users (42598 users) have both projects and wiki in their github page.
   - Correlation between projects and wikis: 0.3109
+  - The positive value of correlation is because when a repository has projects enabled, it was more likely to have a wiki enabled as well. Conversely, repositories without projects enabled were less likely to have a wiki. But a correlation of 0.311 is relatively low, i.e. the relationship between enabling projects and wikis is weak. There is a slight trend that repos with projects also have wikis, but this is not a strong or consistent association.
 
 # Seattle GitHub User and Repository Analysis
 This program retrieves data about Seattle Github users (with more than 200 followers) using Github API and makes csv files of their repo details, making it easier to analyse trends in the data.
